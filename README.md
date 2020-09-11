@@ -3,9 +3,10 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of H-like-indexes_datasets is to provide the different data sets used in the simulation experiments in Dong and Chen (2020).
+The goal of H-like-indexes_datasets is to provide the different data sets used in the simulation experiments in Chen et al. (2020).
 
-     Dong, Y.C., & Chen, M.Q. (2020). H-like indexes: Optimal growth path and sensitivity analysis with comparisons.
+     M. Chen, Z. Guo, Y. Dong, F. Chiclana, E. Herrera-Viedma (2020). Citations optimal growth path: A tool to analyze sensitivity to citations of h-like indexes.
+
 
 # Authors
 
@@ -14,6 +15,7 @@ Maintainer: Meiqian Chen (mqchen@stu.scu.edu.cn)
     Meiqian Chen
     
     Yucheng Dong
+    
 
 # Data support
 
